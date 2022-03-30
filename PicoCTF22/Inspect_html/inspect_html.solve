@@ -1,0 +1,10 @@
+go to:
+http://saturn.picoctf.net:60935/
+
+ctrl+shift+i for dev console
+
+look at html
+
+in the comments
+flag is:
+picoCTF{1n5p3t0r_0f_h7ml_ab1df88d}

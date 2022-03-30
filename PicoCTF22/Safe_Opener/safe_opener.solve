@@ -1,0 +1,6 @@
+cat the file
+file "encoded_string"
+looks like B64 to me
+paste into base64 online decoder
+ezpz
+picoCTF{pl3as3_l3t_m3_1nt0_th3_saf3}

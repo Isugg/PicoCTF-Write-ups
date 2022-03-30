@@ -1,0 +1,4 @@
+I didn't even throw this in IDA.
+Run with one arg 'Hello!'
+./run Hello!
+get flag

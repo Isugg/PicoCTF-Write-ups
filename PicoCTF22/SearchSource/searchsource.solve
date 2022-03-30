@@ -1,0 +1,4 @@
+wget --mirror -p --convert-links -P . http://saturn.picoctf.net:64200/
+grep -r "pico"
+
+As a side note, you could make this a bash script if you just deleted this line. o.0

@@ -1,0 +1,6 @@
+go to http://saturn.picoctf.net:52811/
+ctrl + shift + i
+part 1 of the flag (found in style.css):
+picoCTF{1nclu51v17y_1of2_
+part 2 of the flag (found in script.js):
+f7w_2of2_3d50f001}

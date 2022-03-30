@@ -1,0 +1,12 @@
+Program uses strstr() to find which option you chose and which one will beat it.
+strstr() gives the substring
+send rockpaperscissors to match all substrings and always win
+
+program.sendline(1)
+program.sendline(rockpaperscissors)
+x5
+
+I tried making a pwntools script, but it was being a prick and doing the text flashing thing, where all the god damn output dissapears even though it still gets printed to stdout for like a quarter of a second. Pwntools is great, but a colossally buggy piece of shit sometimes.
+
+Flag:
+picoCTF{50M3_3X7R3M3_1UCK_F2114877}

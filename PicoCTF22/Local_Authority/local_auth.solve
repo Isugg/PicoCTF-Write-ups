@@ -1,0 +1,9 @@
+go here:
+http://saturn.picoctf.net:51419/
+Put in random creds
+Hit enter
+Check the dev console (ctrl+shift+j)
+There will be a file under "sources" called secure.js, check that file for the right creds
+enter the correct creds
+Flag will show:
+picoCTF{j5_15_7r4n5p4r3n7_d6a44d91}
